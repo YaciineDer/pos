@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestion1", "gestion1\gestion1.csproj", "{B91CD452-D485-42F6-9B26-FD6D9A925F8D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "gestion1Setup", "gestion1Setup\gestion1Setup.vdproj", "{A93712A4-B807-4090-95B9-8331F9C7C124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91CD452-D485-42F6-9B26-FD6D9A925F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91CD452-D485-42F6-9B26-FD6D9A925F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91CD452-D485-42F6-9B26-FD6D9A925F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91CD452-D485-42F6-9B26-FD6D9A925F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93712A4-B807-4090-95B9-8331F9C7C124}.Debug|Any CPU.ActiveCfg = Debug
+		{A93712A4-B807-4090-95B9-8331F9C7C124}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43AFC4CE-7D1C-4678-BD4E-D2A1286BD675}
+	EndGlobalSection
+EndGlobal
